@@ -1,0 +1,18 @@
+# Install (only if not already installed)
+#install 'ggplot2'
+#install 'gridExtra'
+
+# Load packages
+#ggplot2
+#gridExtra
+
+# Set working directory (edit this path for your computer)
+setwd("C:/Users/student/OneDrive - purdue.edu/GRAD 505/CornLab")
+getwd()  # Check your working directory
+
+# Import WASDE data
+WASDE <- 
+
+# Explore the dataset 
+head()
+str()
